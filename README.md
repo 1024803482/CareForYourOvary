@@ -1,6 +1,8 @@
 # Care For Your Ovary
 
 ### A computer-aided diagnoisis system for ovarian tumor based on ultrasonic images
+
+
 ### Main Function:
 - Load ultrasonic Image (Support .PNG / .JPG)
 - Classification of ovarian lesions (Current models include ResNet, ResNeXt, and DenseNet)
@@ -8,14 +10,20 @@
 - Segmentation of ovarian lesions（Current models include UNet，DeepLabv3plus, and PSPNet）
 - Save the segmentation result, segmentation mask, and visualization result.
 
-## Environment Setup
+## Display
+### Ovarian Lesion Segmentation
+![segmentation.png](https://github.com/1024803482/CareForYourOvary/blob/master/Display/segmentation.png)
+### Visualization of Lesion Classification
+![classification.png](https://github.com/1024803482/CareForYourOvary/blob/master/Display/classification.png)
 
+## Environment Setup
 1. Clone the repo:
 `git clone https://github.com/1024803482/CareForYourOvary` 
 
 2. Setup environment:
 
     ```
+    # Download libs
     pip install numpy 
     pip install PyQT5 
     pip install torch==1.8.0 torchvision==0.9.0
