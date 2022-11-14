@@ -44,12 +44,12 @@ The weights of classifier and segmenter can be download:
 
 The .EXE can be run directly:
 
-- BaiDuYun: https://pan.baidu.com/s/1ZzAd3mvGeFx-2dJlWEDpqw , password: rc72
+- BaiDuYun: https://pan.baidu.com/s/17OQu5WpjSRa3bkVSO4ei1Q , password: n2o0
 - Google Drive: something error.
 
 ## Note
 
-This system is used for academic purposes, please indicate the source of use. We will update our system soon!
+This system is used for academic purposes, please indicate the source. We will update our system soon!
 
 If you have any question, please discuss with me by sending email to cailh@buaa.edu.cn / ceilinghans@gmail.com.
 
@@ -72,6 +72,15 @@ if you find this code helpful, please cite:
     volume    = {abs/2207.06799},
     year      = {2022},
   }
+  
+  @inproceedings{cai2022using,
+  title={Using Guided Self-Attention with Local Information for Polyp Segmentation},
+  author={Cai, Linghan and Wu, Meijing and Chen, Lijiang and Bai, Wenpei and Yang, Min and Lyu, Shuchang and Zhao, Qi},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={629--638},
+  year={2022},
+  organization={Springer}
+}
   ```
   
 ### Links
