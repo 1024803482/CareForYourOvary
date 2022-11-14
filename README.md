@@ -89,7 +89,7 @@ if you find this code helpful, please cite:
 }
   ```
   
-### Links
+## Links
 - The Multi-Modality Ovarian Tumor Ultrasound Image Dataset (MMOTU): https://github.com/cv516Buaa/MMOTU_DS2Net
 - The segmentation models: https://github.com/qubvel/segmentation_models.pytorch
 - The classification models: https://github.com/pytorch/pytorch
