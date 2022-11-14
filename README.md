@@ -90,6 +90,6 @@ if you find this code helpful, please cite:
   ```
   
 ### Links
-- The MMOTU dataset: https://github.com/cv516Buaa/MMOTU_DS2Net / https://github.com/1024803482/MMOTU_DS2Net
-- The segmentation models: https://github.com/mrgloom/awesome-semantic-segmentation / https://github.com/qubvel/segmentation_models.pytorch
+- The Multi-Modality Ovarian Tumor Ultrasound Image Dataset (MMOTU): https://github.com/cv516Buaa/MMOTU_DS2Net
+- The segmentation models: https://github.com/qubvel/segmentation_models.pytorch
 - The classification models: https://github.com/pytorch/pytorch
