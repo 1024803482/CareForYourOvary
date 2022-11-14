@@ -74,12 +74,18 @@ if you find this code helpful, please cite:
   }
   
   @inproceedings{cai2022using,
-  title={Using Guided Self-Attention with Local Information for Polyp Segmentation},
-  author={Cai, Linghan and Wu, Meijing and Chen, Lijiang and Bai, Wenpei and Yang, Min and Lyu, Shuchang and Zhao, Qi},
-  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  pages={629--638},
-  year={2022},
-  organization={Springer}
+    author = {Cai Linghan and
+              Wu Meijing and 
+              Chen Lijiang and
+              Bai Wenpei and
+              Yang Min and
+              Lyu Shuchang and
+              Zhao, Qi},
+    title =  {Using Guided Self-Attention with Local Information for Polyp Segmentation},
+    booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention},
+    pages = {629--638},
+    year = {2022},
+    organization={Springer}
 }
   ```
   
