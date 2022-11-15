@@ -7,8 +7,8 @@
 - Load ultrasonic Image (Support .PNG / .JPG)
 - Classification of ovarian lesions (Current models include ResNet, ResNeXt, and DenseNet)
 - Visualization of the classification result
-- Segmentation of ovarian lesions（Current models include UNet，DeepLabv3plus, and PSPNet）
-- Save the segmentation result, segmentation mask, and visualization result.
+- Segmentation of ovarian lesions（Current models include UNet，DeepLabv3plus, and PSPNet)
+- Save the segmentation result, segmentation mask, and visualization result
 
 ## Display
 ### Ovarian Lesion Segmentation
