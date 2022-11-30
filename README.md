@@ -53,7 +53,7 @@ This system is used for academic purposes, please indicate the source. We will u
 
 If you have any question, please discuss with me by sending email to cailh@buaa.edu.cn / ceilinghans@gmail.com.
 
-## Citition
+## Citation
 if you find this code helpful, please cite:
 
   ```
